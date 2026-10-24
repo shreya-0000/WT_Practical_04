@@ -1,0 +1,12 @@
+{
+  "name": "server-side-validation-demo",
+  "version": "1.0.0",
+  "description": "NodeJS app demonstrating server-side validation (Practical 04)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "ISC"
+}
